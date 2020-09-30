@@ -1,16 +1,43 @@
-# imc_app
+[![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/clodoaldo-ribeiro-2a3049a6/) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:clodoribeiro38@gmail.com)](mailto:clodoribeiro38@gmail.com)
 
-A new Flutter application.
 
-## Getting Started
+<h1 align="center">conversor_moedas_app</h1>
 
-This project is a starting point for a Flutter application.
+<!-- ABOUT THE PROJECT -->
+## Sobre o projeto
 
-A few resources to get you started if this is your first Flutter project:
+Porjeto criado com o propósito de adquirir conhecimento em Dart.
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Tecnologias
+As tecnologias usadas até o momento são:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* [Flutter SDK ](https://flutter.dev/docs/get-started/install/windows) - SDK Flutter para rodar as aplicações 
+* [Android Studio 4.0](https://developer.android.com/studio) - Ambiente de desenvolvimento
+
+## Instruções de uso
+Apenas fazer o donwlod do [app-debug.apk](https://github.com/ClodoaldoRibeiro/conversor_moedas_app/blob/main/screenshots/app-debug.apk) e executar no android.
+
+## Telas
+<p align="center">
+<img src="https://github.com/ClodoaldoRibeiro/conversor_moedas_app/blob/main/screenshots/01.jpeg" alt="ClodoaldoRibeiro"/>
+<h5 align="center">Tela1: Home1</h5>
+</p>
+<br /> 
+<br /> 
+<br /> 
+<p align="center">
+<img src="https://github.com/ClodoaldoRibeiro/conversor_moedas_app/blob/main/screenshots/02.jpeg" alt="ClodoaldoRibeiro"/>
+<h5 align="center">Tela2: Home2 </h5>
+</p>
+
+
+
+
+
+<!-- MARKDOWN LINKS & IMAGES -->
+[contributors-shield]: https://img.shields.io/github/contributors/lucasbarrossantos/vagasonline.svg?style=flat-square
+[contributors-url]: https://github.com/lucasbarrossantos/vagasonline/graphs/contributors
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=flat-square&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/clodoaldo-ribeiro-2a3049a6/
+
+ 
