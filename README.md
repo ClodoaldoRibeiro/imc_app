@@ -1,7 +1,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/clodoaldo-ribeiro-2a3049a6/) [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:clodoribeiro38@gmail.com)](mailto:clodoribeiro38@gmail.com)
 
 
-<h1 align="center">conversor_moedas_app</h1>
+<h1 align="center">imc_app</h1>
 
 <!-- ABOUT THE PROJECT -->
 ## Sobre o projeto
@@ -19,14 +19,14 @@ Apenas fazer o donwlod do [app-debug.apk](https://github.com/ClodoaldoRibeiro/co
 
 ## Telas
 <p align="center">
-<img src="https://github.com/ClodoaldoRibeiro/conversor_moedas_app/blob/main/screenshots/01.jpeg" alt="ClodoaldoRibeiro"/>
+<img src="https://github.com/ClodoaldoRibeiro/imc_app/tree/master/screenshots/01.jpeg" alt="ClodoaldoRibeiro"/>
 <h5 align="center">Tela1: Home1</h5>
 </p>
 <br /> 
 <br /> 
 <br /> 
 <p align="center">
-<img src="https://github.com/ClodoaldoRibeiro/conversor_moedas_app/blob/main/screenshots/02.jpeg" alt="ClodoaldoRibeiro"/>
+<img src="https://github.com/ClodoaldoRibeiro/imc_app/tree/master/screenshots/02.jpeg" alt="ClodoaldoRibeiro"/>
 <h5 align="center">Tela2: Home2 </h5>
 </p>
 
