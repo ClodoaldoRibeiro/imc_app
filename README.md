@@ -19,7 +19,7 @@ Apenas fazer o donwlod do [app-debug.apk](https://github.com/ClodoaldoRibeiro/co
 
 ## Telas
 <p align="center">
-<img src="https://github.com/ClodoaldoRibeiro/imc_app/tree/master/screenshots/01.jpeg" alt="ClodoaldoRibeiro"/>
+<img src="https://github.com/ClodoaldoRibeiro/imc_app/blob/master/screenshots/01.jpeg" alt="ClodoaldoRibeiro"/>
 <h5 align="center">Tela1: Home1</h5>
 </p>
 <br /> 
