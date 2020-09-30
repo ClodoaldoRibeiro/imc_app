@@ -26,7 +26,7 @@ Apenas fazer o donwlod do [app-debug.apk](https://github.com/ClodoaldoRibeiro/co
 <br /> 
 <br /> 
 <p align="center">
-<img src="https://github.com/ClodoaldoRibeiro/imc_app/tree/master/screenshots/02.jpeg" alt="ClodoaldoRibeiro"/>
+<img src="https://github.com/ClodoaldoRibeiro/imc_app/blob/master/screenshots/02.jpeg" alt="ClodoaldoRibeiro"/>
 <h5 align="center">Tela2: Home2 </h5>
 </p>
 
