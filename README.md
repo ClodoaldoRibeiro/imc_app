@@ -15,7 +15,7 @@ As tecnologias usadas até o momento são:
 * [Android Studio 4.0](https://developer.android.com/studio) - Ambiente de desenvolvimento
 
 ## Instruções de uso
-Apenas fazer o donwlod do [app-debug.apk](https://github.com/ClodoaldoRibeiro/conversor_moedas_app/blob/main/screenshots/app-debug.apk) e executar no android.
+Apenas fazer o donwlod do [app-debug.apk](https://github.com/ClodoaldoRibeiro/imc_app/blob/master/screenshots/app-debug.apk) e executar no android.
 
 ## Telas
 <p align="center">
