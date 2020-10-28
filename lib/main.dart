@@ -85,6 +85,7 @@ class _HomeState extends State<Home> {
                         labelText: "Peso (kg)",
                         labelStyle: TextStyle(color: corpadrao)),
                     style: TextStyle(color: corpadrao, fontSize: 17.0),
+                    // ignore: missing_return
                     validator: (value) {
                       if (value.isEmpty) {
                         return "Insira o peso";
@@ -99,6 +100,7 @@ class _HomeState extends State<Home> {
                         labelText: "Altura (cm)",
                         labelStyle: TextStyle(color: corpadrao)),
                     style: TextStyle(color: corpadrao, fontSize: 17.0),
+                    // ignore: missing_return
                     validator: (value) {
                       if (value.isEmpty) {
                         return "Insira a altura";
